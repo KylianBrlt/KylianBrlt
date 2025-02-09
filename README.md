@@ -1,4 +1,14 @@
-## Hi there 👋
+## 👋 Hey, I'm Kylian!
+
+- 💼 Currently studying.
+- 🚀 Always up for exciting projects.
+- 💬 Let's chat about anything!
+
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KylianBrlt&theme=radical"/>
+  </a>
+</div>
 
 <!--
 **KylianBrlt/KylianBrlt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
